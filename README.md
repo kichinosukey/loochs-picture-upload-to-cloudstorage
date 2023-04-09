@@ -1,0 +1,2 @@
+# loochs-picture-upload-to-cloudstorage
+任意のファイルを任意のクラウドストレージにアップロードしてその公開リンクを取得するツール
